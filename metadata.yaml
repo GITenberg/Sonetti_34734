@@ -1,0 +1,28 @@
+_repo: Sonetti_34734
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pascarella, Cesare
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '37194'
+    url: http://www.gutenberg.org/2009/agents/37194
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2010-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34734'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry'
+- !lcc 'PQ'
+- !lcsh 'Sonnets, Italian'
+title: Sonetti
+url: http://www.gutenberg.org/ebooks/34734
